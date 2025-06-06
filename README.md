@@ -68,7 +68,7 @@
  
   2.Run This Code
   
-    pip install tkinter gTTS
+    pip install gTTS
 
 **After Installing Library
 Run In Python**
@@ -79,5 +79,5 @@ Run In Python**
    
    2.Run This Code
 
-    pip uninstall tkinter gTTS
+    pip uninstall gTTS
 
