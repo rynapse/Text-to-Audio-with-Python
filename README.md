@@ -1,6 +1,5 @@
 Python Code For Text To Audio
 
-<<<<
 
     import tkinter as tk
     from tkinter import filedialog
@@ -63,4 +62,10 @@ Python Code For Text To Audio
 
     root.mainloop()
 
->>>>
+
+Open CMD on Windows or Open Terminal In Linux , And Type 
+
+    pip install tkinter gTTS
+
+After Installing Library
+Run In Python
