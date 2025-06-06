@@ -62,10 +62,18 @@ Python Code For Text To Audio
 
     root.mainloop()
 
-
-Open CMD on Windows or Open Terminal In Linux , And Type 
-
+How to install Python Lbrary
+  1.Open CMD or Terminal 
+  2.Run This Code
+  
     pip install tkinter gTTS
 
 After Installing Library
 Run In Python
+
+How to Remove Python Library
+   1.Open CMD or Terminal
+   2.Run This Code
+
+    pip uninstall tkinter gTTS
+
